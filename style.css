@@ -1,0 +1,21 @@
+body{
+  width: 100vh;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+main{
+  display: flex;
+}
+article{
+  width: 300px;
+  padding: 20px 40px;
+}
+article h2{
+  font-size: 25px;
+}
+article p{
+   font-size: 20px;
+}
+article a{
+  line-height: 50px;
+}
